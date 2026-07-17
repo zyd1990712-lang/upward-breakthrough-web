@@ -22,8 +22,8 @@
     },
     {
       "path": "completeness.html",
-      "content_digest_sha256": "53df5a69d1f7f038ec20f02ec0f88cf2ff087f8edb3472bf8d9f3801e092c728",
-      "bytes": 1241,
+      "content_digest_sha256": "09ebbe097264edb2326d790f59eda6f99a6c67f7e507efad1bced65cce40fe81",
+      "bytes": 1287,
       "mode": "0644"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "path": "detail.html",
-      "content_digest_sha256": "8903fb358752c99678293d8801d0e9f685886400de160349dce151df37e3e76d",
+      "content_digest_sha256": "72259ac9694e64129bbba75da06b8e24facf196212a46d1277f5b079ed56ecec",
       "bytes": 1460,
       "mode": "0644"
     },
@@ -100,8 +100,8 @@
     },
     {
       "path": "index.html",
-      "content_digest_sha256": "09df028cb72b721ab4ed72c8f6c936e0d5e08f44c466e59d843951e8e36e4447",
-      "bytes": 4060,
+      "content_digest_sha256": "9c0be44941b39de1d3f9a414a9d9a5d51ba06df0ed3ce89c4d71b0c8987f7b21",
+      "bytes": 4054,
       "mode": "0644"
     },
     {
@@ -118,20 +118,20 @@
     },
     {
       "path": "knowledge-records.html",
-      "content_digest_sha256": "90e1bf7e1ef87d89a6574afe372a27529cca3c23ae15059ae54a9d82dd9f512f",
-      "bytes": 1733,
+      "content_digest_sha256": "001e99840184ceda57c4b962342d2b1eae44f00ff5464e69ca655d0888653187",
+      "bytes": 1835,
       "mode": "0644"
     },
     {
       "path": "knowledge-records.js",
-      "content_digest_sha256": "2dc02346b9e7bcc2231ab260ea0895d5801eede6a5791c42bf7e94f751b4f60c",
+      "content_digest_sha256": "a745708b4de1e4b52e53e78566e562fe01d34dd20313bc16e3e9004608d44193",
       "bytes": 4056,
       "mode": "0644"
     },
     {
       "path": "policy-crosswalk.html",
-      "content_digest_sha256": "b9ae0a3ed2cab037f420d49da7056a4cf7629c4a7d591cd639e5cb9dbedeeeb6",
-      "bytes": 1952,
+      "content_digest_sha256": "08c5fb100eae9e8d139d1b5aa0c92a31382fa35cfc33c9f178cbd6cb162097b4",
+      "bytes": 1955,
       "mode": "0644"
     },
     {
@@ -142,8 +142,8 @@
     },
     {
       "path": "research-institution.html",
-      "content_digest_sha256": "522fedd7964e7cc7f7ff538b638c7e144a0fce9a7b26af84df1bc471129bd028",
-      "bytes": 1461,
+      "content_digest_sha256": "aa822ae6df8792d19ce394d48c17b2905183a673ffdcb23177ce2455a75c2fb8",
+      "bytes": 1473,
       "mode": "0644"
     },
     {
