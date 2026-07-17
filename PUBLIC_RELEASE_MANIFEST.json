@@ -1,0 +1,210 @@
+{
+  "release_scope": "minimal allowlisted public query site",
+  "manifest_version": "4",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "content_digest_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "mode": "0644"
+    },
+    {
+      "path": "README.md",
+      "content_digest_sha256": "122167b4ebbd696be86f1ecc9ca677cc979ccfdf0b621cc0a0a4418f023ef29b",
+      "bytes": 167,
+      "mode": "0644"
+    },
+    {
+      "path": "app.js",
+      "content_digest_sha256": "15f23f2e5054a0186945b83777b2922564210cc9c48b7d68ee12332d31210881",
+      "bytes": 2114,
+      "mode": "0644"
+    },
+    {
+      "path": "completeness.html",
+      "content_digest_sha256": "53df5a69d1f7f038ec20f02ec0f88cf2ff087f8edb3472bf8d9f3801e092c728",
+      "bytes": 1241,
+      "mode": "0644"
+    },
+    {
+      "path": "completeness.js",
+      "content_digest_sha256": "b9c01d32240ff13f7d0978153dfea913e6d61209578efee787f50e4e04a4ad9d",
+      "bytes": 1465,
+      "mode": "0644"
+    },
+    {
+      "path": "data/core.json",
+      "content_digest_sha256": "ba81ce373a8f36d02ae28ba635f90e3c055ffead81805a934214dec81117bc9c",
+      "bytes": 90603,
+      "mode": "0644"
+    },
+    {
+      "path": "data/entities.json",
+      "content_digest_sha256": "f77f61c7fc0967c34c551a364854d709f20bc08eccd5af8b889d60dbc253d34d",
+      "bytes": 1841,
+      "mode": "0644"
+    },
+    {
+      "path": "data/knowledge-records.json",
+      "content_digest_sha256": "2bfba60e3071e6221f096eb8b39b81f6a9989a84f0c7a70da74e08a254d47584",
+      "bytes": 2743,
+      "mode": "0644"
+    },
+    {
+      "path": "data/relationships.json",
+      "content_digest_sha256": "c083b122e973ce3563b758aafdde0d15ecf674fa093034809dceb9b1802e660b",
+      "bytes": 2299607,
+      "mode": "0644"
+    },
+    {
+      "path": "data/research.json",
+      "content_digest_sha256": "911da34a8eab0559f5dcc6c24f2db33dc665afceee17883c1c2b9f1c925a2be3",
+      "bytes": 20614,
+      "mode": "0644"
+    },
+    {
+      "path": "data/trees.json",
+      "content_digest_sha256": "9c99875888f9711649a12822e55fa88766842d5b1728a4d8e3963f34f9b49582",
+      "bytes": 2366965,
+      "mode": "0644"
+    },
+    {
+      "path": "detail.html",
+      "content_digest_sha256": "8903fb358752c99678293d8801d0e9f685886400de160349dce151df37e3e76d",
+      "bytes": 1460,
+      "mode": "0644"
+    },
+    {
+      "path": "detail.js",
+      "content_digest_sha256": "5be75fc550c5f27a652b71b72a53f323eeba200cdf8207f4924acab6c8c38ffc",
+      "bytes": 3806,
+      "mode": "0644"
+    },
+    {
+      "path": "entities.html",
+      "content_digest_sha256": "4b1f64d2261936c2a95b0d0734d9c1f7260096d36e9514a65495848114116881",
+      "bytes": 1170,
+      "mode": "0644"
+    },
+    {
+      "path": "entities.js",
+      "content_digest_sha256": "b3e9956979f304221872781b82dbd3109a8c5b5d9c610d7aef44de9cfbdcc037",
+      "bytes": 890,
+      "mode": "0644"
+    },
+    {
+      "path": "favicon.svg",
+      "content_digest_sha256": "08edf2f0f83677daaecc2ab566b3662c4adcce11b5479b076ec9e9688ec75628",
+      "bytes": 256,
+      "mode": "0644"
+    },
+    {
+      "path": "index.html",
+      "content_digest_sha256": "09df028cb72b721ab4ed72c8f6c936e0d5e08f44c466e59d843951e8e36e4447",
+      "bytes": 4060,
+      "mode": "0644"
+    },
+    {
+      "path": "industry.html",
+      "content_digest_sha256": "5953e19b95e5dec90867d9cd557d5b3c59847a256be5e049904d489ffece7580",
+      "bytes": 742,
+      "mode": "0644"
+    },
+    {
+      "path": "industry.js",
+      "content_digest_sha256": "2b776f8b5afd21b1728a622263722e93eace0d8f4cb78578722b000bff394d2d",
+      "bytes": 948,
+      "mode": "0644"
+    },
+    {
+      "path": "knowledge-records.html",
+      "content_digest_sha256": "90e1bf7e1ef87d89a6574afe372a27529cca3c23ae15059ae54a9d82dd9f512f",
+      "bytes": 1733,
+      "mode": "0644"
+    },
+    {
+      "path": "knowledge-records.js",
+      "content_digest_sha256": "2dc02346b9e7bcc2231ab260ea0895d5801eede6a5791c42bf7e94f751b4f60c",
+      "bytes": 4056,
+      "mode": "0644"
+    },
+    {
+      "path": "policy-crosswalk.html",
+      "content_digest_sha256": "b9ae0a3ed2cab037f420d49da7056a4cf7629c4a7d591cd639e5cb9dbedeeeb6",
+      "bytes": 1952,
+      "mode": "0644"
+    },
+    {
+      "path": "policy-crosswalk.js",
+      "content_digest_sha256": "c0422cebcf74bdeb1da3b7b33a4bdb9e8f9cb907e636ee4142d64a4605f6af95",
+      "bytes": 2989,
+      "mode": "0644"
+    },
+    {
+      "path": "research-institution.html",
+      "content_digest_sha256": "522fedd7964e7cc7f7ff538b638c7e144a0fce9a7b26af84df1bc471129bd028",
+      "bytes": 1461,
+      "mode": "0644"
+    },
+    {
+      "path": "research-institution.js",
+      "content_digest_sha256": "0cb2ecca9ef13799b2996622d6aa750d4e22c5e953061003cb255bb1208c85cc",
+      "bytes": 1409,
+      "mode": "0644"
+    },
+    {
+      "path": "research-reports.html",
+      "content_digest_sha256": "9ace048d1891a5b72580868eb11949045244a7e4d2849e87cca0fce55743166e",
+      "bytes": 1686,
+      "mode": "0644"
+    },
+    {
+      "path": "research-reports.js",
+      "content_digest_sha256": "7b73fcc0fe50b210d38b68daaf1c46ec2961c1bcc6f7c2f96921caac1d61c3a5",
+      "bytes": 2927,
+      "mode": "0644"
+    },
+    {
+      "path": "styles.css",
+      "content_digest_sha256": "e698d48f36f594736520e972a9d5cb9c23b8feda65de7af9ef087616d4f59b72",
+      "bytes": 13335,
+      "mode": "0644"
+    },
+    {
+      "path": "system.html",
+      "content_digest_sha256": "b2f2a60d2159044b4e7efa7ae904c404ade32ddfc22a7d9a8e92b974ba229cf1",
+      "bytes": 780,
+      "mode": "0644"
+    },
+    {
+      "path": "system.js",
+      "content_digest_sha256": "27e0a6113ebeda89ac28b1e7f03abd2ed3ec621f1f493cb64f42856390953a73",
+      "bytes": 2122,
+      "mode": "0644"
+    },
+    {
+      "path": "systems.html",
+      "content_digest_sha256": "dbdc5c6c4129192fd34fd037d33c28251b212fcb92ddd51b077f33e53a281c37",
+      "bytes": 656,
+      "mode": "0644"
+    },
+    {
+      "path": "systems.js",
+      "content_digest_sha256": "57278ed044a266db3b82437e77d91b03bc3daf42d43953289bd9a59c91a75bd1",
+      "bytes": 4724,
+      "mode": "0644"
+    },
+    {
+      "path": "technology-topics.html",
+      "content_digest_sha256": "b81939c0b763543d6f64b21f10fe3c4cd3b547e07acd10ca04161d659000e80b",
+      "bytes": 1370,
+      "mode": "0644"
+    },
+    {
+      "path": "technology-topics.js",
+      "content_digest_sha256": "59bb82e263a47abca6aa5b82c3775246f3252e148ef748368b0bb0661f5c4955",
+      "bytes": 1239,
+      "mode": "0644"
+    }
+  ]
+}
