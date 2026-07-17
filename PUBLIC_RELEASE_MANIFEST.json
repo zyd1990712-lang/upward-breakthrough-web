@@ -51,6 +51,12 @@
       "mode": "0644"
     },
     {
+      "path": "data/pilot-candidates.json",
+      "content_digest_sha256": "8b455acba9c88a5729434ed3698d42065a9a1acb7a4d9502617fd3f0351322a5",
+      "bytes": 25348,
+      "mode": "0644"
+    },
+    {
       "path": "data/relationships.json",
       "content_digest_sha256": "c083b122e973ce3563b758aafdde0d15ecf674fa093034809dceb9b1802e660b",
       "bytes": 2299607,
@@ -100,8 +106,8 @@
     },
     {
       "path": "index.html",
-      "content_digest_sha256": "9c0be44941b39de1d3f9a414a9d9a5d51ba06df0ed3ce89c4d71b0c8987f7b21",
-      "bytes": 4054,
+      "content_digest_sha256": "ea8c9d570c32f6cb7fa6728842904f40bd81d4c6a355059d0657355f7547345a",
+      "bytes": 4144,
       "mode": "0644"
     },
     {
@@ -126,6 +132,18 @@
       "path": "knowledge-records.js",
       "content_digest_sha256": "a745708b4de1e4b52e53e78566e562fe01d34dd20313bc16e3e9004608d44193",
       "bytes": 4056,
+      "mode": "0644"
+    },
+    {
+      "path": "pilot-selection.html",
+      "content_digest_sha256": "facd316d3795d33bf29c31d180e36268ffccb957198d2f5176a9bb5d57881042",
+      "bytes": 2022,
+      "mode": "0644"
+    },
+    {
+      "path": "pilot-selection.js",
+      "content_digest_sha256": "e5f7a3d8c1c4ad227bfedba58cfc417e165ce0e2186d542535ea90be54828ffe",
+      "bytes": 4818,
       "mode": "0644"
     },
     {
