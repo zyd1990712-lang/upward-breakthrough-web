@@ -52,8 +52,8 @@
     },
     {
       "path": "data/pilot-candidates.json",
-      "content_digest_sha256": "dc3313885934d3646aeafb59eccd15c5e637642596c9b710fec24c8b89fd951a",
-      "bytes": 41999,
+      "content_digest_sha256": "8ac218661af6fa17af1ac00d732e428188ab427e487501de9ba90fa26b920e25",
+      "bytes": 28591,
       "mode": "0644"
     },
     {
@@ -136,14 +136,14 @@
     },
     {
       "path": "pilot-selection.html",
-      "content_digest_sha256": "baf4e36f4fbf8b2fb136b61b4751cff2b60401df79674e3bd742e54ae016dcab",
-      "bytes": 2181,
+      "content_digest_sha256": "3a6b8c24d34aabcdeab148ec6783cd2990180cd059a94f3ed739a4296616a46f",
+      "bytes": 2310,
       "mode": "0644"
     },
     {
       "path": "pilot-selection.js",
-      "content_digest_sha256": "cd850d924e6b6004fd46ac345a5d023bb34fdf6a6ee393ad22f56feb94437ad8",
-      "bytes": 6902,
+      "content_digest_sha256": "273cfdfd140f679af0c2883079607c30f8299e73287b96c1239247787f0d8dd5",
+      "bytes": 4247,
       "mode": "0644"
     },
     {
@@ -184,8 +184,8 @@
     },
     {
       "path": "styles.css",
-      "content_digest_sha256": "7b5e7afe68f67870a361123be1479d85fadb8e4e1c823db290523aa7670d1000",
-      "bytes": 13411,
+      "content_digest_sha256": "348d74ae54eceaf69e6c9608128ef8610dff2035878e89585727aca0dace7ef7",
+      "bytes": 15148,
       "mode": "0644"
     },
     {
