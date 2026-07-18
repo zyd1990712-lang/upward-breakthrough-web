@@ -52,8 +52,8 @@
     },
     {
       "path": "data/pilot-candidates.json",
-      "content_digest_sha256": "6b0ca6daf327cd5a2308158e7f368455311f34a7ca0a0580af5e8a2c33bacff3",
-      "bytes": 28750,
+      "content_digest_sha256": "00b26cc6fa6042787afe28e261309226fa986d77a041d74007485e74b71bb342",
+      "bytes": 29416,
       "mode": "0644"
     },
     {
