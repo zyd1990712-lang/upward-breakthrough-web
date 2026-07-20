@@ -46,14 +46,14 @@
     },
     {
       "path": "data/knowledge-records.json",
-      "content_digest_sha256": "d9d5efcbc3b201864c2fbbdb73c956db30cae1eb0213f0bb98db247dbc15bbf5",
-      "bytes": 61640,
+      "content_digest_sha256": "00984b1c0569a610b467544211ba1dd6d75b55eef93c6fdfd62c0e40b3b4c45f",
+      "bytes": 66802,
       "mode": "0644"
     },
     {
       "path": "data/pilot-candidates.json",
-      "content_digest_sha256": "655bfc43e682351886c23247efc30b2c474dd76a85db51f64361c08b94e0a22a",
-      "bytes": 30401,
+      "content_digest_sha256": "eb8cb64d7952fbb695e0519c20157ddd116879ad43ff9e08086583fa07cbaa00",
+      "bytes": 30383,
       "mode": "0644"
     },
     {
